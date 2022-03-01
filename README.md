@@ -10,5 +10,3 @@
 - HTML;
 - CSS;
 - JavaScript (VanillaJS).
-
-[Ссылка на проект](https://lucystep.github.io/glo-store-project/)
